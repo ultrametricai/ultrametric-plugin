@@ -1,0 +1,35 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ultrametric",
+  "version": "0.1.0",
+  "description": "Company process guides and saved company context for your agent.",
+  "author": { "name": "Ultrametric, Inc.", "url": "https://ultrametric.ai" },
+  "homepage": "https://ultrametric.ai",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["company-setup", "company-context", "startup", "ultrametric"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Ultrametric",
+        "shortDescription": "Company setup and context",
+        "longDescription": "Use published process guides to set up and maintain the company behind your project. Read saved company context, prepare sourced drafts, and record progress in your selected Ultrametric organization. The active agent follows the guides with its available tools. Saving progress does not execute a filing, purchase, or other external action.",
+        "developerName": "Ultrametric, Inc.",
+        "category": "Productivity",
+        "capabilities": [
+          "Read process guides",
+          "Read company context",
+          "Save progress and records"
+        ],
+        "websiteURL": "https://ultrametric.ai",
+        "privacyPolicyURL": "https://ultrametric.ai/privacy/",
+        "termsOfServiceURL": "https://ultrametric.ai/tos/",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png",
+        "defaultPrompt": [
+          "Help me set up the company behind this project.",
+          "Resume my saved company work."
+        ]
+      }
+    }
+  }
+}
