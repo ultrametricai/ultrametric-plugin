@@ -1,6 +1,6 @@
 {
   "name": "ultrametric",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Company process guides and saved company context for your agent.",
   "mcpServers": {
     "ultrametric": {

@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ultrametric",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Company process guides and saved company context for your agent.",
   "author": { "name": "Ultrametric, Inc.", "url": "https://ultrametric.ai" },
   "homepage": "https://ultrametric.ai",

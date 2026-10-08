@@ -3,7 +3,7 @@
   "name": "ai.ultrametric/ultrametric",
   "title": "Ultrametric",
   "description": "Company process guides and saved company context for your agent.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://ultrametric.ai",
   "remotes": [
     {
