@@ -33,6 +33,15 @@ copilot plugin install .
 gemini extensions link .
 ```
 
+For a persistent Claude Code installation, run these commands from the extracted package root. The bundled marketplace resolves to this same directory.
+
+```sh
+claude plugin marketplace add .
+claude plugin install ultrametric@ultrametric
+```
+
+After the package containing this catalog is published to the public repository, users can add it with `claude plugin marketplace add ultrametricai/ultrametric-plugin` and use the same install command. The local catalog does not establish a published marketplace or directory listing.
+
 In Kiro, use **Add Custom Power → Import power from a folder** and select the package root. For other hosts, use their documented local package or marketplace flow.
 
 For a ZIP installation, extract the archive and select its root directory, or upload it through a host that accepts plugin ZIPs. `server.json` is metadata for the official MCP Registry; it does not configure an additional connection.

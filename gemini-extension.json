@@ -1,7 +1,7 @@
 {
   "name": "ultrametric",
-  "version": "0.1.1",
-  "description": "Company process guides and saved company context for your agent.",
+  "version": "0.1.2",
+  "description": "Automate your startup from idea to incorporation, then growth. Start and run company operations, get researched comparisons, navigate complex situations, and sync context to other agents.",
   "mcpServers": {
     "ultrametric": {
       "httpUrl": "https://api.ultrametric.ai/mcp"

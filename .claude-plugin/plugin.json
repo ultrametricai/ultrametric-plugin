@@ -1,9 +1,14 @@
 {
   "name": "ultrametric",
-  "version": "0.1.1",
-  "description": "Company process guides and saved company context for your agent.",
-  "author": { "name": "Ultrametric, Inc.", "url": "https://ultrametric.ai" },
+  "version": "0.1.2",
+  "description": "Automate your startup from idea to incorporation, then growth. Start and run company operations, get researched comparisons, navigate complex situations, and sync context to other agents.",
+  "author": {
+    "name": "Ultrametric, Inc.",
+    "url": "https://ultrametric.ai"
+  },
   "homepage": "https://ultrametric.ai",
+  "icon": "./assets/icon.png",
   "license": "LicenseRef-Proprietary",
-  "keywords": ["company-setup", "company-context", "startup", "ultrametric"]
+  "keywords": ["company-setup", "company-context", "startup", "ultrametric"],
+  "privacyPolicyUrl": "https://ultrametric.ai/privacy/"
 }
