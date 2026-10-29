@@ -7,8 +7,11 @@
     "url": "https://ultrametric.ai"
   },
   "homepage": "https://ultrametric.ai",
+  "repository": "https://github.com/ultrametricai/ultrametric-plugin",
   "icon": "./assets/icon.png",
   "license": "LicenseRef-Proprietary",
   "keywords": ["company-setup", "company-context", "startup", "ultrametric"],
+  "documentationUrl": "https://docs.ultrametric.ai/mcp/connect",
+  "supportUrl": "https://docs.ultrametric.ai/troubleshooting",
   "privacyPolicyUrl": "https://ultrametric.ai/privacy/"
 }
