@@ -3,7 +3,7 @@
   "name": "ai.ultrametric/ultrametric",
   "title": "Ultrametric",
   "description": "Automate startup operations from idea to growth, with research and shared company context.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "websiteUrl": "https://ultrametric.ai",
   "remotes": [
     {
